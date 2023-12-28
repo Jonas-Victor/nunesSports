@@ -124,7 +124,7 @@ Este guia ajudará você a executar a API (backend) do projeto Nunes Sportes loc
 10 . **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/seu-usuario/nunes-sportes-backend.git
+   git clone https://github.com/Jonas-Victor/nunesSports
    ```
 Apos clonar o repositorio entre no arqui api
 
